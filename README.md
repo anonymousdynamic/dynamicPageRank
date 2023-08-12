@@ -1,1 +1,1 @@
-# dynamicPageRank
+# DynamicPageRank
